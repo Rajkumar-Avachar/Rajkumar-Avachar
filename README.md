@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkumar-avachar&label=Profile%20views&color=0e75b6&style=flat" alt="rajkumar-avachar" /> </p>
 <h2>🚀About Me</h2>
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 20px;">
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
   <!-- Text Section -->
   <div style="flex: 1; min-width: 300px;">
     <p>
