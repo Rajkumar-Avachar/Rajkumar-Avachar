@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkumar-avachar&label=Profile%20views&color=0e75b6&style=flat" alt="rajkumar-avachar" /> </p>
 <h2>🚀About Me</h2>
-<div>
+
 <div align="left">
   <p>
     I am an aspiring full-stack developer, passionate about building responsive and scalable web applications. I’m currently diving deep into the MERN stack and exploring best practices in modern web development.
@@ -19,9 +19,9 @@
 </div>
 
 <div align="right">
-  <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding GIF" width="300" />
+  <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding GIF" width="500" />
 </div>
-</div>
+
 
 
 <br>
