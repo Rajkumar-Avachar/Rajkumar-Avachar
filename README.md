@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring full stack web developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkumar-avachar&label=Profile%20views&color=0e75b6&style=flat" alt="rajkumar-avachar" /> </p>
-<h3>🚀About Me</h3>
+<h2>🚀About Me</h2>
 I am an aspiring full-stack developer, passionate about building responsive and scalable web applications. I’m currently diving deep into the MERN stack and exploring best practices in modern web development.
 
 - 🌱 I’m currently learning **MERN Stack**
