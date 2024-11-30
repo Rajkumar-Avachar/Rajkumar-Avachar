@@ -10,7 +10,7 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
   <!-- Text Section -->
-  <div style="flex: 1">
+  <div style="flex: 1; width: 200px">
     <p>
       I am an aspiring full-stack developer, passionate about building responsive and scalable web applications. I’m
       currently diving deep into the MERN stack and exploring best practices in modern web development.
