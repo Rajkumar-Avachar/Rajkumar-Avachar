@@ -1,3 +1,5 @@
+![My Banner](https://link-to-your-banner-image.png)
+
 <h1 align="center">Hi 👋, I'm Rajkumar Avachar</h1>
 <h3 align="center">Aspiring full stack web developer.</h3>
 
