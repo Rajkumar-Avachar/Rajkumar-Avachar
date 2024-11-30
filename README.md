@@ -1,4 +1,4 @@
-![My Banner](mybanner.png)
+![My Banner](mybanner1.png)
 
 <h1 align="center">Hi 👋, I'm Rajkumar Avachar</h1>
 <h3 align="center">Aspiring full stack web developer.</h3>
