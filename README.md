@@ -1,4 +1,6 @@
-![My Banner](githubbanner.png)
+<p align="center">
+  <img src="githubbanner.png" alt="Banner" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Rajkumar Avachar</h1>
 <h3 align="center">Aspiring full stack web developer.</h3>
