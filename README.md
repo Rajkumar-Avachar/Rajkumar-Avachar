@@ -10,7 +10,7 @@ I am an aspiring full-stack developer, passionate about building responsive and 
 - 📫 How to reach me **rajavachar59@gmail.com**
 
 
-<br><br>
+<br>
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
