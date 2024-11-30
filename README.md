@@ -12,8 +12,8 @@
     I am an aspiring full-stack developer, passionate about building responsive and scalable web applications. I’m currently diving deep into the MERN stack and exploring best practices in modern web development.
   </p>
   
-    - 🌱 I’m currently learning <strong>MERN Stack</strong></li>
-    - 📫 How to reach me: <strong>rajavachar59@gmail.com</strong></li>
+    - 🌱 I’m currently learning <strong>MERN Stack</strong>
+    - 📫 How to reach me: <strong>rajavachar59@gmail.com</strong>
   
 </div>
 
