@@ -46,6 +46,12 @@
 
 </div><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajkumar-avachar&show_icons=true&locale=en&layout=compact" alt="rajkumar-avachar" /></p> <br><br>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajkumar-avachar&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=6" alt="rajkumar-avachar" />
+</p>
+<br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajkumar-avachar&" alt="rajkumar-avachar" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajkumar-avachar&theme=radical&fire=FF4500&ring=FF4500&hide_border=true" alt="rajkumar-avachar" />
+</p>
+
