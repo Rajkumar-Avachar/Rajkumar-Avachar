@@ -7,11 +7,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkumar-avachar&label=Profile%20views&color=0e75b6&style=flat" alt="rajkumar-avachar" /> </p>
 <h2>🚀About Me</h2>
-I am an aspiring full-stack developer, passionate about building responsive and scalable web applications. I’m currently diving deep into the MERN stack and exploring best practices in modern web development.
+<div align="left">
+  <p>
+    I am an aspiring full-stack developer, passionate about building responsive and scalable web applications. I’m currently diving deep into the MERN stack and exploring best practices in modern web development.
+  </p>
+  <ul>
+    <li>🌱 I’m currently learning <strong>MERN Stack</strong></li>
+    <li>📫 How to reach me: <strong>rajavachar59@gmail.com</strong></li>
+  </ul>
+</div>
 
-- 🌱 I’m currently learning **MERN Stack**
-
-- 📫 How to reach me **rajavachar59@gmail.com**
+<div align="right">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" width="300" />
+</div>
 
 
 <br>
