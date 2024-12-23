@@ -36,10 +36,21 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
   </a>
   &nbsp;
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+  </a>
+  &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
   </a>
   &nbsp;
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
+  </a>
+  &nbsp;
+  <a href="https://mui.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material ui" />
+  </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
   </a>
@@ -56,17 +67,7 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
   </a>
   &nbsp;
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-  </a>
-  &nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
-  </a>
-  &nbsp;
-  <a href="https://mui.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material ui" />
-  </a>
+  
 </p>
 
 
