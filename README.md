@@ -25,7 +25,7 @@
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">TECHNICAL SKILLS:</h3>
 
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
