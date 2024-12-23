@@ -83,6 +83,11 @@
   <a href="https://www.mongodb.com/cloud/atlas" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Atlas" />
 </a>
+  &nbsp;
+<a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/OOP-1F425F?style=for-the-badge&logo=oop&logoColor=white" alt="OOP" />
+</a>
+
   
   
 </p>
