@@ -63,6 +63,10 @@
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express" />
   </a>
   &nbsp;
+  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=api&logoColor=white" alt="REST APIs" />
+</a>
+
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
   </a>
