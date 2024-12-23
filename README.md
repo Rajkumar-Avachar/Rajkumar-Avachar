@@ -24,6 +24,7 @@
 
 
 <br>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
@@ -54,7 +55,20 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
   </a>
+  &nbsp;
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+  </a>
+  &nbsp;
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
+  </a>
+  &nbsp;
+  <a href="https://mui.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material ui" />
+  </a>
 </p>
+
 
 
 </div><br><br>
