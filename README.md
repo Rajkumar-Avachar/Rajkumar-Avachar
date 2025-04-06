@@ -80,6 +80,10 @@
   <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=api&logoColor=white" alt="REST APIs" />
 </a>
 &nbsp;
+  <a href="https://en.wikipedia.org/wiki/API_testing" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/API%20Testing-FF6F61?style=for-the-badge&logo=postman&logoColor=white" alt="API Testing" />
+</a>
+&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
   </a>
