@@ -64,10 +64,7 @@
     <img src="https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material ui" />
   </a>
   &nbsp;
-  <a href="https://ejs.co/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/EJS-026E00?style=for-the-badge&logo=ejs&logoColor=white" alt="EJS" />
-</a>
-  &nbsp;
+
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
   </a>
