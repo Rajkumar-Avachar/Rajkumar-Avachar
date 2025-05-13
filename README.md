@@ -107,9 +107,6 @@
 <br><br>
 
 <p>
-  <img align="center"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=rajkumar-avachar&theme=radical&fire=FF4500&ring=FF4500&hide_border=true"
-       alt="rajkumar-avachar" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajkumar-avachar&theme=radical&fire=FF4500&ring=FF4500&hide_border=true" alt="rajkumar-avachar" />
 </p>
-
 
